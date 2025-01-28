@@ -7,6 +7,6 @@ I am passionate about using Data Science and Machine Learning to address ecologi
 Contact Information:
 
 Victoria Marquez, Argentina.
-Email: vmarquez053@gmail.com.
-LinkedIn: https://www.linkedin.com/in/vicmarquez/
+#Email: vmarquez053@gmail.com.
+#LinkedIn: https://www.linkedin.com/in/vicmarquez/
 
