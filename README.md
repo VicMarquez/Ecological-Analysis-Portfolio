@@ -77,6 +77,9 @@ This study explores the impact of frequent fires on the sexual expression and re
 
 ## Ecological analysis 
 
+### Fire meta-analysis
+This project was developed by 
+
 
 
 
