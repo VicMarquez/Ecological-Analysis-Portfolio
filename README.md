@@ -78,7 +78,7 @@ This study explores the impact of frequent fires on the sexual expression and re
 ## Ecological analysis 
 
 ### Fire meta-analysis
-This project was developed by @LucasCarbonee. I re-ran and improve the code to ensure up-to-date results and reliability. In the process, I also learned how to execute it.
+This project was developed by [Dr. Lucas Carbone](https://github.com/LucasCarbonee/). You can also find it here: Carbone et al. 2024. http://hdl.handle.net/11336/218595. I re-ran and improve the code to ensure up-to-date results and reliability. In the process, I also learned how to execute it. 
 
 
 
