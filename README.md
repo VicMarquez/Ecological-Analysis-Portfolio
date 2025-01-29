@@ -75,6 +75,7 @@ This study explores the impact of frequent fires on the sexual expression and re
 
 [Download here](https://github.com/VicMarquez/Ecology-Data-Science-Portfolio/blob/main/Publications/Marquezetal_2019.pdf)
 
+## Ecological analysis 
 
 
 
