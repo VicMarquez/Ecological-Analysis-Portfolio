@@ -12,4 +12,4 @@ Email: vmarquez053@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/vicmarquez/
 
-	
+**Publications**
