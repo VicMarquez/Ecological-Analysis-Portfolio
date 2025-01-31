@@ -80,7 +80,9 @@ This study explores the impact of frequent fires on the sexual expression and re
 ### Fire meta-analysis
 This project was developed by [Dr. Lucas Carbone](https://github.com/LucasCarbonee/). You can also find it here: Carbone et al. 2024. http://hdl.handle.net/11336/218595. I re-ran and improved the code to ensure up-to-date results and reliability.
 
+### Ecological diversity analysis 
+These analyses are part of my paper titled "Silvopastoral and Peasant Management Effects on Vegetation and Soil Quality in the Arid Chaco of Central Argentina."
 
-
+To evaluate the similarity in species composition across different land use conditions (silvopastoral and peasant management), we constructed a matrix using Bray-Curtis dissimilarity indices derived from species abundance data. These data were collected from sampling plots and stratified by vegetation layers (herb, shrub, and tree). Based on this matrix, we performed a one-way non-parametric analysis of similarity (ANOSIM) with 999 permutations to test for significant differences in species composition between the two land management types. Additionally, we conducted a Non-Metric Multidimensional Scaling (NMDS) ordination analysis using the calculated dissimilarity measures to visually represent and interpret the differences in species composition associated with each management type
 
 
