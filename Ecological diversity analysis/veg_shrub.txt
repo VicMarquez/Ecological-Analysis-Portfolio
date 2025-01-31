@@ -1,0 +1,13 @@
+	Jusgil	Jusxyl	Twebru	Valgab	Ceraet	Capata	Mayvit	Monspi	Berarg	Ditmon	Mimdet	Mimcar	Senaph	Vacaro	Strura	Triusi	Ayecor	Malcor	Psevir	Siddic	Conmic	Cascoc	Capcha	Lycchi	Lyccil	Lycelo	Lycten	Liptur	Pomser	Bulfol	Gonbon	Lanmeg	Lardiv Schfas Corarg Ampcyn
+A1	0	0	0	0	0	38	0	4	0	0	16	38	4	0	4	0	0	0	4	4	0	0	0	0	0	1	0	0	0	16	0	0	16     0      4      1
+A2	0	0	1	0	4	38	0	0	0	0	38	16	1	0	0	0	1	0	4	4	4	16	0	0	0	1	0	4	0	0	0	0	38     0      4      0
+A3	0	0	1	0	0	16	16	0	0	0	4	63	16	0	0	0	0	0	0	4	0	1	0	0	0	4	1	0	0	0	0	0	16     0      4      0
+E7	0	1	0	0	0	16	4	0	0	0	16	38	0	0	0	0	0	0	4	4	0	0	0	0	0	0	0	0	0	0	0	0	4      0      4      0
+E8	0	1	1	1	1	16	16	1	0	0	16	63	0	0	4	0	4	0	4	4	0	0	0	4	0	0	1	0	0	0	0	0	16     0      4      0
+E9	4	1	4	0	0	4	16	4	0	0	16	38	0	0	0	1	0	0	4	4	0	0	0	0	1	0	1	0	0	0	0	0	4      0      4      0
+G4	0	0	1	0	0	0	4	0	4	0	16	16	4	0	4	0	4	0	21	4	0	0	0	4	0	0	0	0	0	0	0	0	4      0      4      0 
+G5	0	1	0	0	1	4	16	0	0	0	16	16	0	0	4	0	1	0	4	1	0	0	0	38	0	0	0	0	0	0	0	0	16     1      4      0
+G6	0	1	1	0	0	4	16	0	0	0	16	16	0	0	4	16	0	0	4	4	0	0	0	4	0	0	0	0	0	0	0	0	4      0      4      0
+C10	0	0	0	0	0	0	0	0	4	0	4	4	0	1	4	0	1	0	4	1	0	0	0	0	0	1	0	0	4	0	0	0	0      0      4      0
+C11	0	0	0	0	0	0	0	0	4	1	4	4	1	4	0	1	4	1	4	4	0	0	0	0	0	0	0	0	0	0	0	1	1      0      4      1
+C12	0	0	0	0	0	4	0	0	0	1	4	4	0	4	4	0	0	0	4	4	0	0	1	0	0	0	0	0	0	0	4	0	1      0      4      1

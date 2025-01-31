@@ -1,0 +1,13 @@
+	Altepa	Prosp 	Syngri	Brourb	Tilcap	Selsel	Tilcas	Tilmin	Clebau	Aphlin	Eupber	Tildur	Gallat	Trager	Aricir	Cencil	Chlcil	Digcal	Enndes	Goupar	Megmax	Neolop	Pancol	Papcae	Papphi	Sethun	Spopyr	Tricrt	Uromos	Carhal	Solatr	Solela
+A1	0	4	0	0	0	63	1	4	1	0	1	4	0	4	0	1	0	0	4	4	4	4	0	0	1	4	4	4	0	4	1	1
+A2	0	4	0	16	0	63	0	4	0	0	4	1	0	4	0	0	0	4	0	16	0	4	0	0	4	16	1	16	0	4	0	0
+A3	0	0	0	0	1	88	1	4	0	4	0	4	0	4	0	0	0	0	0	4	1	1	0	0	0	4	0	4	0	0	0	0
+E7	0	0	0	0	0	88	4	0	0	0	0	4	0	4	0	0	0	0	0	0	0	0	0	0	0	4	1	4	0	1	0	0
+E8	0	0	0	0	1	88	4	4	0	1	0	4	4	4	0	0	0	0	0	4	0	0	0	0	0	4	4	4	0	0	0	0
+E9	0	0	0	0	4	16	4	4	0	0	1	4	1	0	0	0	0	0	0	0	0	0	0	0	1	4	4	4	0	4	0	0
+G4	0	0	0	4	0	4	0	0	0	4	1	4	4	4	0	0	0	0	0	0	0	0	4	0	0	4	0	0	0	1	0	0
+G5	0	0	0	0	0	4	0	0	0	0	0	0	0	1	0	1	0	0	0	4	4	0	1	0	0	4	0	0	0	0	0	1
+G6	0	0	0	1	0	4	4	1	0	1	0	4	0	1	0	0	0	0	1	0	0	0	4	0	0	0	0	16	0	0	0	1
+C10	0	0	0	0	0	4	0	0	0	0	0	16	16	4	4	0	0	0	0	0	0	0	0	63	38	16	38	4	0	0	0	0
+C11	0	0	4	0	0	4	0	0	0	4	0	0	0	1	0	38	0	0	4	0	0	0	63	0	0	0	0	0	1	0	0	0
+C12	4	0	0	0	0	1	0	0	0	0	0	0	4	4	0	38	1	0	1	0	4	0	63	0	0	4	0	0	1	4	0	0
