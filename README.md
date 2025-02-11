@@ -93,6 +93,6 @@ The analyses are part of my paper titled "Pollination and sexual reproduction of
 
 To investigate the effects of land-use intensity on plant reproductive variables, including fruit set and total fruit production, we utilized generalized linear mixed models (GLMMs). Land-use intensity, comprising four levels (conserved forest, secondary forest, closed shrubland, and silvopastoral systems), was included as a fixed effect. To account for potential spatial dependencies, site identity (N = 12) was incorporated as a random effect, nested within each land-use intensity level. Given the distinct distributional characteristics of the response variables, we employed different GLMM extensions tailored to each variable. For fruit set, which represents proportional data, we used a binomial error distribution. For total fruit production, which exhibited overdispersion, we applied a negative binomial error distribution. Covariates such as tree diameter and conspecific density within each site were excluded from the models due to violations of the independence assumption required for their inclusion. Model assumptions and fit were rigorously evaluated to ensure robustness. The significance of fixed effects was assessed using Wald-Z statistics, while the importance of random effects was determined by comparing nested models (with and without random effects) to the global model using likelihood ratio tests (LRTs). Model parameters were estimated using restricted maximum likelihood (REML) methods, ensuring reliable and unbiased inference.
 
-
+## Data Science
 
 
