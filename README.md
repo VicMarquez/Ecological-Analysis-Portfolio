@@ -1,6 +1,6 @@
 # Ecology & Data Science Portfolio
 
-A collection of personal projects in ecology, data analysis, and ecological modeling.
+A collection of personal projects in ecology, data science, and ecological modeling.
 
 ## About Me
 I am an ecologist focused on the impacts of land-use change on ecosystem services, particularly plant-pollinator interactions and plant reproduction. With expertise in statistical analysis, I apply advanced techniques like mixed models and multivariate analyses to explore ecological patterns. I am passionate about integrating data science with ecology to inform conservation and enhance our understanding of ecological dynamics. I'm all about continuous learning and improving my skills.
