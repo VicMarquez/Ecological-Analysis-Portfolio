@@ -1,9 +1,9 @@
-# Ecology & Data Science Portfolio
+# Ecological Analysis Portfolio
 
 A collection of personal projects in ecology, data analysis, and ecological modeling.
 
 ## About Me
-I'm passionate about using Data Science and Machine Learning to tackle ecological questions and environmental challenges. I creatively apply my expertise in R, Python, and ecological modeling to find insightful solutions that benefit the environment, science, and conservation efforts. I'm all about continuous learning and improving my skills.
+I am an ecologist focused on the impacts of land-use change on ecosystem services, particularly plant-pollinator interactions and plant reproduction. With expertise in statistical analysis, I apply advanced techniques like mixed models and multivariate analyses to explore ecological patterns. I am passionate about integrating data science with ecology to inform conservation and enhance our understanding of ecological dynamics. I'm all about continuous learning and improving my skills.
 
 ## Contact Information
 **Victoria Marquez, Argentina**  
