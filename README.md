@@ -1,4 +1,4 @@
-# Ecological Analysis Portfolio
+# Ecology & Data Science Portfolio
 
 A collection of personal projects in ecology, data analysis, and ecological modeling.
 
