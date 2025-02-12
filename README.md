@@ -97,6 +97,7 @@ To investigate the effects of land-use intensity on plant reproductive variables
 
 ### Exploratory data analysis and curation
 
+In this code, I conducted an exploratory data analysis (EDA) on a dataset that records air quality across various cities in India (https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india) using Pandas. The dataset contains measurements of multiple pollutants, including PM2.5, PM10, NO, NH3, CO, benzene, xylene, and the Air Quality Index (AQI). The analysis began with identifying missing values and assessing data types. I then performed transformations such as converting date columns to datetime format and creating new calculated columns. Missing values were imputed with the mean for each city and year, and columns with a high proportion of missing data were removed. Outliers were detected using the Interquartile Range (IQR) method. The aim of these steps was to clean and preprocess the data, making it ready for more in-depth analysis or modeling.
 
 ### Prediction of atmospheric electrical activity using Machine Learning
 
