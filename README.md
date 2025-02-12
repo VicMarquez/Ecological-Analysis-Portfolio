@@ -95,6 +95,9 @@ To investigate the effects of land-use intensity on plant reproductive variables
 
 ## Data Science
 
+### Exploratory data analysis and curation
+
+
 ### Prediction of atmospheric electrical activity using Machine Learning
 
 I carried out this project with two friends and colleagues, Santiago Costas and Juan Ignacio Szurlewicz, as our final work for the Data Science diploma from the Faculty of Mathematics, Physics, and Astronomy. Our goal was to predict atmospheric electrical activity (LIGHT column) from the WRF-ELEC model using Machine Learning techniques. First, we explored, cleaned, and standardized the data. Then, we selected explanatory variables using various techniques, such as correlation matrices and PCA. Finally, we conducted multiple iterations of random forest and neural network models, comparing their performance.
