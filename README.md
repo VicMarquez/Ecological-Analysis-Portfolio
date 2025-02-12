@@ -97,7 +97,7 @@ To investigate the effects of land-use intensity on plant reproductive variables
 
 ### Prediction of atmospheric electrical activity using Machine Learning
 
-I carried out this project with two friends and colleagues, Santiago Costas and Juan Ignacio Szurlewicz. Our goal was to predict atmospheric electrical activity (LIGHT column) from the WRF-ELEC model using Machine Learning techniques. First, we explored, cleaned, and standardized the data. Then, we selected explanatory variables using various techniques, such as correlation matrices and PCA. Finally, we compared the performance of random forest models and neural network models.
+I carried out this project with two friends and colleagues, Santiago Costas and Juan Ignacio Szurlewicz. Our goal was to predict atmospheric electrical activity (LIGHT column) from the WRF-ELEC model using Machine Learning techniques. First, we explored, cleaned, and standardized the data. Then, we selected explanatory variables using various techniques, such as correlation matrices and PCA. Finally, we conducted multiple iterations of random forest and neural network models, comparing their performance.
 
 
 
