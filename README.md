@@ -103,4 +103,7 @@ In this code, I conducted an exploratory data analysis (EDA) on a dataset that r
 
 I carried out this project with two friends and colleagues, Santiago Costas and Juan Ignacio Szurlewicz, as our final work for the Data Science diploma from the Faculty of Mathematics, Physics, and Astronomy. Our goal was to predict atmospheric electrical activity (LIGHT column) from the WRF-ELEC model using Machine Learning techniques. First, we explored, cleaned, and standardized the data. Then, we selected explanatory variables using various techniques, such as correlation matrices and PCA. Finally, we conducted multiple iterations of random forest and neural network models, comparing their performance.
 
+### Deep Learning
+
+This code implements a deep learning model (neural network) used to classify sentences as sarcastic or non-sarcastic using PyTorch. It includes data preprocessing with NLP techniques, such as text cleaning and tokenization. The model is trained and evaluated through the use of classes and objects, providing a structured and modular approach to the development process. The training loop includes optimization, loss calculation, and performance evaluation on a validation dataset. Additionally, the model allows for the implementation of early stopping and gradient clipping for improved training stability.
 
